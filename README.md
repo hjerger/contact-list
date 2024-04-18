@@ -12,6 +12,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 - you can scroll to the bottom to load another set of contacts (100)
 - you can click on a contact which opens the details of that contact
 - once the contact details are visible there is an edit button to update the contact data
+- you can delete a contact with the X button
 
 ![Screenshot of the contact list](https://github.com/hjerger/contact-list/blob/main/Screenshot1.png)
-![Screenshot of the contact list](https://github.com/hjerger/contact-list/blob/main/Screenshot21.png)
+![Screenshot of the contact list](https://github.com/hjerger/contact-list/blob/main/Screenshot2.png)
